@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1610" viewBox="0 0 1920 1610" role="img" aria-labelledby="title">
+  <title id="title">Сеть из голубых узлов на тёмном фоне</title>
+  <defs>
+    <radialGradient id="blue-node">
+      <stop offset="0" stop-color="#0688ca"/>
+      <stop offset="0.42" stop-color="#0688ca"/>
+      <stop offset="1" stop-color="#047dbc"/>
+    </radialGradient>
+    <radialGradient id="cyan-node">
+      <stop offset="0" stop-color="#37bbf6"/>
+      <stop offset="0.42" stop-color="#37bbf6"/>
+      <stop offset="1" stop-color="#33ace3"/>
+    </radialGradient>
+  </defs>
+  <rect width="1920" height="1610" fill="#0f172a"/>
+  <g fill="none" stroke="#38bdf8" stroke-width="5.9">
+    <line x1="1283.5" y1="451.4" x2="1475.6" y2="690.5" stroke-opacity="0.301"/>
+    <line x1="1283.5" y1="451.4" x2="1118" y2="859.5" stroke-opacity="0.195"/>
+    <line x1="1283.5" y1="451.4" x2="1320.5" y2="889.5" stroke-opacity="0.200"/>
+    <line x1="1283.5" y1="451.4" x2="1528.5" y2="971.5" stroke-opacity="0.124"/>
+    <line x1="1283.5" y1="451.4" x2="1659.8" y2="774.9" stroke-opacity="0.187"/>
+    <line x1="1283.5" y1="451.4" x2="1688.5" y2="788.5" stroke-opacity="0.151"/>
+    <line x1="428" y1="666.5" x2="467.5" y2="672.5" stroke-opacity="0.470"/>
+    <line x1="428" y1="666.5" x2="766.5" y2="1048.5" stroke-opacity="0.172"/>
+    <line x1="428" y1="666.5" x2="275.5" y2="1063.5" stroke-opacity="0.192"/>
+    <line x1="428" y1="666.5" x2="217.5" y2="1177.5" stroke-opacity="0.172"/>
+    <line x1="428" y1="666.5" x2="469.5" y2="1214.5" stroke-opacity="0.138"/>
+    <line x1="428" y1="666.5" x2="427.5" y2="1252.5" stroke-opacity="0.120"/>
+    <line x1="467.5" y1="672.5" x2="766.5" y2="1048.5" stroke-opacity="0.189"/>
+    <line x1="467.5" y1="672.5" x2="217.5" y2="1177.5" stroke-opacity="0.324"/>
+    <line x1="467.5" y1="672.5" x2="469.5" y2="1214.5" stroke-opacity="0.145"/>
+    <line x1="467.5" y1="672.5" x2="427.5" y2="1252.5" stroke-opacity="0.120"/>
+    <line x1="1475.6" y1="690.5" x2="1118" y2="859.5" stroke-opacity="0.244"/>
+    <line x1="1475.6" y1="690.5" x2="1320.5" y2="889.5" stroke-opacity="0.330"/>
+    <line x1="1475.6" y1="690.5" x2="1528.5" y2="971.5" stroke-opacity="0.313"/>
+    <line x1="1475.6" y1="690.5" x2="1113.5" y2="1064.5" stroke-opacity="0.167"/>
+    <line x1="1475.6" y1="690.5" x2="1659.8" y2="774.9" stroke-opacity="0.592"/>
+    <line x1="1118" y1="859.5" x2="1320.5" y2="889.5" stroke-opacity="0.370"/>
+    <line x1="1118" y1="859.5" x2="1528.5" y2="971.5" stroke-opacity="0.225"/>
+    <line x1="1118" y1="859.5" x2="766.5" y2="1048.5" stroke-opacity="0.227"/>
+    <line x1="1118" y1="859.5" x2="1113.5" y2="1064.5" stroke-opacity="0.340"/>
+    <line x1="1118" y1="859.5" x2="1659.8" y2="774.9" stroke-opacity="0.147"/>
+    <line x1="1118" y1="859.5" x2="1688.5" y2="788.5" stroke-opacity="0.123"/>
+    <line x1="1320.5" y1="889.5" x2="1528.5" y2="971.5" stroke-opacity="0.364"/>
+    <line x1="1320.5" y1="889.5" x2="766.5" y2="1048.5" stroke-opacity="0.118"/>
+    <line x1="1320.5" y1="889.5" x2="1113.5" y2="1064.5" stroke-opacity="0.306"/>
+    <line x1="1320.5" y1="889.5" x2="1659.8" y2="774.9" stroke-opacity="0.262"/>
+    <line x1="1320.5" y1="889.5" x2="1688.5" y2="788.5" stroke-opacity="0.232"/>
+    <line x1="1528.5" y1="971.5" x2="1113.5" y2="1064.5" stroke-opacity="0.211"/>
+    <line x1="1528.5" y1="971.5" x2="1659.8" y2="774.9" stroke-opacity="0.318"/>
+    <line x1="1528.5" y1="971.5" x2="1688.5" y2="788.5" stroke-opacity="0.308"/>
+    <line x1="766.5" y1="1048.5" x2="275.5" y2="1063.5" stroke-opacity="0.171"/>
+    <line x1="766.5" y1="1048.5" x2="1113.5" y2="1064.5" stroke-opacity="0.264"/>
+    <line x1="766.5" y1="1048.5" x2="217.5" y2="1177.5" stroke-opacity="0.131"/>
+    <line x1="766.5" y1="1048.5" x2="469.5" y2="1214.5" stroke-opacity="0.293"/>
+    <line x1="766.5" y1="1048.5" x2="427.5" y2="1252.5" stroke-opacity="0.201"/>
+    <line x1="766.5" y1="1048.5" x2="514.5" y2="1367.5" stroke-opacity="0.227"/>
+    <line x1="275.5" y1="1063.5" x2="217.5" y2="1177.5" stroke-opacity="0.227"/>
+    <line x1="275.5" y1="1063.5" x2="469.5" y2="1214.5" stroke-opacity="0.340"/>
+    <line x1="275.5" y1="1063.5" x2="427.5" y2="1252.5" stroke-opacity="0.322"/>
+    <line x1="275.5" y1="1063.5" x2="514.5" y2="1367.5" stroke-opacity="0.293"/>
+    <line x1="217.5" y1="1177.5" x2="469.5" y2="1214.5" stroke-opacity="0.334"/>
+    <line x1="217.5" y1="1177.5" x2="427.5" y2="1252.5" stroke-opacity="0.362"/>
+    <line x1="217.5" y1="1177.5" x2="514.5" y2="1367.5" stroke-opacity="0.273"/>
+    <line x1="469.5" y1="1214.5" x2="427.5" y2="1252.5" stroke-opacity="0.458"/>
+    <line x1="469.5" y1="1214.5" x2="514.5" y2="1367.5" stroke-opacity="0.401"/>
+    <line x1="427.5" y1="1252.5" x2="514.5" y2="1367.5" stroke-opacity="0.376"/>
+  </g>
+  <g stroke="#a8d1e7" stroke-width="5.7">
+    <circle cx="1283.5" cy="451.4" r="15" fill="url(#cyan-node)"/>
+    <circle cx="428" cy="666.5" r="15" fill="url(#blue-node)"/>
+    <circle cx="467.5" cy="672.5" r="15" fill="url(#blue-node)"/>
+    <circle cx="1475.6" cy="690.5" r="22" fill="url(#blue-node)"/>
+    <circle cx="1118" cy="859.5" r="15" fill="url(#blue-node)"/>
+    <circle cx="1320.5" cy="889.5" r="15" fill="url(#blue-node)"/>
+    <circle cx="1528.5" cy="971.5" r="15" fill="url(#cyan-node)"/>
+    <circle cx="766.5" cy="1048.5" r="22" fill="url(#blue-node)"/>
+    <circle cx="275.5" cy="1063.5" r="15" fill="url(#blue-node)"/>
+    <circle cx="1113.5" cy="1064.5" r="15" fill="url(#cyan-node)"/>
+    <circle cx="217.5" cy="1177.5" r="15" fill="url(#blue-node)"/>
+    <circle cx="469.5" cy="1214.5" r="15" fill="url(#cyan-node)"/>
+    <circle cx="427.5" cy="1252.5" r="22" fill="url(#cyan-node)"/>
+    <circle cx="514.5" cy="1367.5" r="15" fill="url(#cyan-node)"/>
+    <circle cx="1659.8" cy="774.9" r="15" fill="url(#cyan-node)"/>
+    <circle cx="1688.5" cy="788.5" r="15" fill="url(#cyan-node)"/>
+  </g>
+</svg>

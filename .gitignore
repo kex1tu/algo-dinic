@@ -1,0 +1,18 @@
+/.cache/
+/build/
+/tmp/
+/literature/
+.~lock.*#
+
+/output/*
+!/output/Диниц презентация.pptx
+!/output/pdf/
+/output/pdf/*
+!/output/pdf/Диниц отчёт.pdf
+!/output/pdf/Диниц отчёт.tex
+
+/results/*
+!/results/measurements.csv
+!/results/summary.csv
+!/results/means.png
+!/results/histograms.png
